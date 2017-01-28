@@ -2,4 +2,4 @@
 
 ## References
 
-* http://jasonrbriggs.com/python-for-kids/code.html[Python for Kids]
+* Python for Kids - http://jasonrbriggs.com/python-for-kids/code.html
